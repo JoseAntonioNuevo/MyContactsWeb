@@ -1,0 +1,719 @@
+	.cierra {
+		text-decoration: none;
+		color: #FF3434;
+		font-size: 16px;
+	}
+
+	.infocontacto1 {
+		position: absolute;
+		background-color: #FFF3F3;
+		margin-left: 31%;
+		width: 68%;
+		padding: 3px;
+		text-align: center;
+		height: 82%;
+		border-top: 2px solid;
+		border-color: #009DFF;
+		border-left: 1px solid;
+		border-color: #009DFF;
+	}
+		.infocontacto2 {
+		position: absolute;
+		background-color: #FFF3F3;
+		padding: 3px;
+		width: 68%;
+		text-align: center;
+		height: 82%;
+	}
+
+
+	.mapa {
+		position: absolute;
+		margin-left: 31%;
+		height: 55%;
+		text-align: center;
+		width: 68%;
+		padding: 3px;
+		margin-top: 14%;
+		border-left: 1px solid;
+		border-color: #009DFF;
+
+	}
+
+
+	.mapa2 {
+		position: absolute;
+		margin-left: 32%;
+		height:71.2%;
+		text-align: center;
+		width: 68%;
+		padding: 3px;
+		border-left: 1px solid;
+		border-color: #009DFF;
+
+	}
+
+
+	.btn {
+		padding: 11px;
+	}
+
+	.boton1 {
+		background-color: #008CBA;
+		padding: 10px 29px;
+		border-radius: 8px;
+		margin-left: 3%;
+		color: white;
+	}
+
+	.btn .boton1:hover {
+ 	 background-color: black;
+ 	 color: white;
+ 	}
+
+ 	.opciones {
+ 		position: absolute;
+ 		margin-left: 50;
+ 		margin-top: -2%;
+ 		margin-left: 17%;
+ 		width: 75%;
+ 	}
+
+ 	.opcion {
+ 		text-decoration: none;
+ 		color: #007AC6;
+ 		font-size: 18px;
+ 	}
+
+ 	.opcion2 {
+ 		text-decoration: none;
+ 		color: #007AC6;
+ 		font-size: 18px;
+ 		margin-left: 6%;
+ 	}
+
+ 	.opcion3 {
+ 		text-decoration: none;
+ 		color: #007AC6;
+ 		font-size: 18px;
+ 		margin-left: 6%;
+ 	}
+
+ 	.opcionadmin {
+ 		text-decoration: none;
+ 		color: #007AC6;
+ 		font-size: 18px;
+ 		margin-left: 6%;
+ 	}
+
+ 	
+ 	.fav {
+ 		position: absolute;
+ 		margin-top: 1%;
+ 		width: 50px;
+ 		margin-left: -10%;
+ 		float: left;
+ 		padding-right: 5%;
+ 	}
+ 	
+
+	.edit {
+ 		position: absolute;
+ 		margin-top: 1%;
+ 		width: 50px;
+ 		float: left;
+ 		margin-left: -2%;
+ 		margin-top: -6%;
+ 	}
+
+
+ 	.btnfav {
+		padding: 11px;
+		width: 100%;
+	}
+
+	.boton2 {
+		padding: 15px 90px;
+		margin-left: -4%;
+		margin-top: -3%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+
+	}
+
+	.btnfav .boton2:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.btncontact {
+		padding: 11px;
+		width: 100%;
+		margin-top: -3%;
+	}
+
+	.boton3 {
+		padding: 15px 80px;
+		margin-left: -4%;
+		margin-top: -8%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+		text-align: center;
+		border-top: 1px solid;
+		border-color: #009DFF
+
+	}
+
+	.btncontact .boton3:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.btnallcontact {
+		padding: 11px;
+		width: 100%;
+		margin-top: -3%;
+	}
+
+	.boton4 {
+		padding: 15px 60px;
+		margin-left: -4%;
+		margin-top: -8%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+		text-align: center;
+		border-top: 1px solid;
+		border-color: #009DFF
+
+	}
+
+	.btnallcontact .boton4:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.btneliminados {
+		padding: 11px;
+		width: 100%;
+		margin-top: -3%;
+	}
+
+	.boton5 {
+		padding: 15px 60px;
+		margin-left: -4%;
+		margin-top: -8%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+		text-align: center;
+		border-top: 1px solid;
+		border-color: #009DFF
+
+	}
+
+	.btneliminados .boton5:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.resultado {
+ 		position: absolute; 
+ 		margin-left: 15%; 
+ 		margin-top: 5%;
+ 		width: 16%;
+ 		text-decoration:none;
+ 		float: right;
+ 		
+ 	}
+ 	.header {
+		padding: 2px;
+		width: 100%;
+		border-bottom: 2px solid;
+		border-color: #009DFF;
+	}
+
+	.logo {
+		width: 4%;
+		padding-left: 1%;
+		position: block;
+		margin-left: -5;
+	}
+
+	.bienvenida {
+		float: auto;
+		position: absolute;
+		margin-top: -73px;
+		padding-left: 6%;
+		font-size: 20px;
+		color: #003F67;
+	}
+
+	.buscador {
+		width: 20%;
+		padding: 3px;
+		position: absolute;
+		margin-left: 25%;
+		margin-top: 27px;
+		border: 2px solid;
+		border-color: #008CBA; 
+	}
+
+	.lupa {
+ 		width: 30px;
+ 		position: absolute;
+ 		margin-left: 23%;
+ 		margin-top: 24px;
+	}
+
+	.subheader {
+		width: 100%;
+		padding: 1px;
+		background-color: #DDF2FF;
+		position: static;
+	}
+
+	.subheader2 {
+		width: 100%;
+		padding: 1px;
+		background-color: #DDF2FF;
+		position: static;
+		border-bottom: 2px solid;
+		border-color: #009DFF;
+	}
+
+	.menuleft {
+		height: 83%;
+		background-color: #DDF2FF ;
+		position: absolute;
+		width: 15%;
+		border-top: 2px solid;
+		border-color: #009DFF;
+	}
+
+	.menuleft2 {
+		height: 83%;
+		background-color: #DDF2FF ;
+		position: absolute;
+		width: 15%;
+		border-right: 2px solid;
+		border-color: #009DFF;
+	}
+	
+
+	.submenuleft {
+		height: 83%;
+		position: absolute;
+		width: 16%;
+		margin-left: 15%;
+		text-align: center;
+		border-left: 2px solid;
+		border-color: #009DFF;
+		border-top: 2px solid;
+		border-color: #009DFF;
+	}
+
+	.cerrarsesion {
+		background-color: #FFAFAF;
+		border: 2px solid;
+		border-color: #FF3434;
+		float: right;
+		padding: 9px;
+		margin-top: 23px;
+		width: 12%;
+		text-align: center;
+	}
+
+	.mapas {
+		position: absolute;
+		margin-left: 15%;
+		height: 72%;
+		text-align: center;
+		width: 85%;
+		padding: 3px;
+		margin-top: 14%;
+		border-left: 1px solid;
+		border-color: #009DFF;
+
+	}
+
+ 	.administrar {
+ 		width: 25px;
+ 		position: absolute;
+ 		margin-left: 3%;
+ 		margin-top: -3px;
+ 	}
+
+ 	.btnfav {
+		padding: 11px;
+		width: 100%;
+	}
+
+	.boton2 {
+		padding: 15px 90px;
+		margin-left: -4%;
+		margin-top: -3%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+
+	}
+
+	.btnfav .boton2:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.btncontact {
+		padding: 11px;
+		width: 100%;
+		margin-top: -3%;
+	}
+
+	.boton3 {
+		padding: 15px 80px;
+		margin-left: -4%;
+		margin-top: -8%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+		text-align: center;
+		border-top: 1px solid;
+		border-color: #009DFF
+
+	}
+
+	.btncontact .boton3:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.btnallcontact {
+		padding: 11px;
+		width: 100%;
+		margin-top: -3%;
+	}
+
+	.boton4 {
+		padding: 15px 60px;
+		margin-left: -4%;
+		margin-top: -8%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+		text-align: center;
+		border-top: 1px solid;
+		border-color: #009DFF
+
+	}
+
+	.btnallcontact .boton4:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.btneliminados {
+		padding: 11px;
+		width: 100%;
+		margin-top: -3%;
+	}
+
+	.boton5 {
+		padding: 15px 60px;
+		margin-left: -4%;
+		margin-top: -8%;
+		background-color: #DDF2FF;
+		width: 100%;
+		border : none;
+		color: #007AC6;
+		font-size: 17px;
+		text-align: center;
+		border-top: 1px solid;
+		border-color: #009DFF
+
+	}
+
+	.btneliminados .boton5:hover {
+ 	 background-color: #008CBA;
+ 	 color: white;
+ 	}
+
+ 	.tabla {
+ 		position: absolute;
+ 		margin-left: 16%;
+ 		width: 83%;
+ 		height: 83%;
+ 		text-align: center;
+ 		margin-top: 1%;
+ 	}
+
+ 	.tabla_admin {
+ 		width: 100%;
+ 		background-color: #FFD9D9;
+ 	}
+
+ 	.th {
+ 		background-color: red;
+ 		color: white;
+ 		padding: 5px;
+ 	}
+
+ 	.imgRedonda {
+    width:80px;
+    height:80px;
+    border-radius:150px;
+}
+
+.table_infocontactos1{
+	text-align: center;
+	margin-left: 30%;
+}
+
+.table_infocontactos2{
+	text-align: center;
+	margin-left: 43.9%;
+}
+
+.input-group {
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.input-group input {
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+
+.opacity{
+   opacity:0.9; 
+  
+}
+
+.table_infocontactos1{
+	text-align: center;
+	margin-left: 1%;
+	width: 99%;
+}
+
+.table_infocontactos2{
+	text-align: center;
+	margin-left: 1%;
+	width: 145%;
+}
+
+.divtitulo {
+	background-color: yellow;
+}
+
+.titulocontacto{
+	color: red;
+	font-size: 25px;
+	font-family: "Segoe UI";
+	text-align: center;
+}
+
+
+
+.iconos3 {
+	margin-left: 30%;
+}
+
+.favoritos {
+ 		width: 19%;
+ 		margin-left: 10%;
+ 		height: 15%;
+ 		padding-right: 5%;
+ 	}
+
+ 	.favoritos2 {
+ 		width: 22%;
+ 		margin-left: 20%;
+ 		height: 55%;
+ 		padding-right: 5%;
+ 	}
+
+
+ 	.fav2 {
+ 		position: absolute;
+ 		width: 50px;
+ 		float: left;
+ 		margin-top: 15px;
+ 	}
+
+ 	.editados {
+ 		width: 19%;
+ 		margin-left: 40%;
+ 		height: 21%;
+ 		margin-top: -3%;
+ 	}
+ 	.telf {
+ 		width: 22%;
+ 		margin-left: 40%;
+ 		height: 21%;
+ 		margin-top: -35%;
+ 	}
+ 	.editados2 {
+ 		width: 25%;
+ 		margin-left: 56%;
+ 		height: 49%;
+ 		margin-top: -5%;
+ 		padding-bottom: 2px;
+ 	}
+
+ 	.edit2 {
+ 		position: absolute;
+ 		width: 50px;
+ 		float: left;
+ 		margin-left: 2%;
+ 		margin-top: -32%;
+ 	}
+
+ 	.editbb {
+ 		position: absolute;
+ 		width: 50px;
+ 		float: left;
+ 		margin-left: 2%;
+ 		margin-top: -32%;
+ 	}
+
+
+ 	.eliminad{
+ 		width: 19%;
+ 		margin-left: 70%;
+ 		height: 20%;
+ 		margin-top: -4%;
+ 	}
+
+ 	.eliminad2{
+ 		width: 46%;
+ 		margin-left: 80%;
+ 		height: 80%;
+ 		margin-top: -75%;
+ 	}
+
+
+ 	.delete2 {
+ 		width: 50px;
+ 		position: absolute;
+ 		margin-top: 25%;
+ 		float: right;
+ 	}
+
+	.opciones2 {
+ 		position: absolute;
+ 		margin-left: 50;
+ 		margin-top: -2%;
+ 		margin-left: 32%;
+ 		width: 75%;
+ 	}
+
+	.opciones3 {
+ 		position: absolute;
+ 		margin-left: 50;
+ 		margin-top: -2%;
+ 		margin-left: 45%;
+ 		width: 75%;
+ 	}
+
+.modal-contenido{
+  position: absolute;
+  background-color: #93F0FF;
+  width: 30%;
+  padding: 10px 20px;
+  margin-top: -20%;
+  margin: 5% auto;
+  position: relative;
+  border: 5px solid;
+  border-color: black;
+  border-radius: 15px;
+  text-align: center;
+}
+.modal{
+  background-color: rgba(0,0,0,.8);
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  opacity:0;
+  pointer-events:none;
+}
+#miModal:target{
+  opacity:1;
+  pointer-events:auto;
+  z-index: 1;
+}
+
+.logomodal {
+	width: 15%;
+	position: absolute;
+	margin-left: 27%;
+	z-index: 1;
+	margin-top: 1%;
+}
+
+.usuariomodal{
+	width: 11%;
+	position: absolute;
+	z-index: 1;
+	margin-left: 60%;
+	margin-top: 38%;
+}
+
+#miEditar:target{
+  opacity:1;
+  pointer-events:auto;
+  z-index: 1;
+}
+
+
+.editi {
+ 	
+ 		position: absolute;
+ 		margin-left: 45%;
+ 		margin-top: 15%;
+ 		text-align: center;
+ 	}
+
+
+.editi2 {
+ 	
+ 		position: absolute;
+ 		margin-left: 65%;
+ 		margin-top: 15%;
+ 		text-align: center;
+ 	}
+
+ .sending {
+ 	
+ 		position: absolute;
+ 		margin-left: 48%;
+ 		margin-top: 42%;
+ 		text-align: center;
+ 		width: 30%;
+ 	}
